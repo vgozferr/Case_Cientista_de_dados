@@ -1,3 +1,5 @@
+-- Todos os clientes que não fizeram compras no mês de março de 2020
+
 SELECT
 	PS.ID_PESSOA,
 	PS.NM_PESSOA
