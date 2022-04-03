@@ -1,3 +1,5 @@
+-- Todas as compras realizadas no mês de janeiro de 2020 em lojas do estado do Ceará (CE)
+
 SELECT
 	PS.ID_PESSOA,
 	PS.NM_PESSOA,
