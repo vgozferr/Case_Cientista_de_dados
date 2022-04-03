@@ -1,3 +1,5 @@
+-- Quantidade de compras por cliente no mês de março de 2020
+
 SELECT
 	PS.ID_PESSOA,
 	COUNT(*) QTD_COMPRAS
