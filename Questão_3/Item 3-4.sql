@@ -1,3 +1,5 @@
+-- Data da última compra por cliente
+
 SELECT * FROM
 (
 SELECT
